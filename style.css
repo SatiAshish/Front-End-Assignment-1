@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.colorchoise{
+    font-size: 25px;
+    word-spacing: 85px;
+    padding-bottom: 5px;
+}
+img{
+    position: relative;
+    border: 1px solid rgb(222, 206, 206);
+}
+.para{
+    font-size: 25px;
+}
+.sizeselect{
+    font-size: 30px;
+}
+.btn1{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-right: 25px;
+    font-size: 20px;
+}
+.btn2{
+    border: none;
+    font-weight: 10px;
+    font-size: 20px;
+}
